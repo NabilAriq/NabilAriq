@@ -22,6 +22,6 @@ Berikut adalah daftar pelatihan dan sertifikasi yang sedang atau telah saya sele
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabilAriq&show_icons=true&theme=tokyonight" alt="Nabil's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilAriq&theme=tokyonight" alt="Nabil's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NabilAriq&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Nabil's Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilAriq&theme=tokyonight&hide_border=false" alt="Nabil's Streak" height="180" />
 </p>
