@@ -1,27 +1,27 @@
 # Hi there, I'm Nabil! 👋
 
-### 🎓 Learning Journey & Courses
-Berikut adalah daftar pelatihan dan sertifikasi yang sedang atau telah saya selesaikan:
+### 🎓 Learning Journey & CTF Paths
+Daftar pelatihan dan fokus kompetisi yang sedang saya tekuni:
 
-| Status | Course Name | Provider | Tech Stack |
-| :---: | :--- | :---: | :--- |
-| 🏆 | **Machine Learning Terapan** | [Dicoding](https://dicoding.com) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🚀 | **Dart Masterclass** | [Udemy](https://udemy.com) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| 📖 | **Struktur Data & Algoritma** | [Coursera](https://coursera.org) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| 🧪 | **Cyber Security Essentials** | [Cisco](https://skillsforall.com) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| Status | Focus / Course Name | Tech Stack |
+| :---: | :--- | :--- |
+| 🛡️ | **Capture The Flag (CTF)** | ![Reverse Engineering](https://img.shields.io/badge/Reverse--Eng-8A2BE2?style=flat-square&logo=visual-studio-code&logoColor=white) ![Forensics](https://img.shields.io/badge/Forensics-4B0082?style=flat-square&logo=wireshark&logoColor=white) |
+| 🐍 | **Core AI & Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| 🎯 | **Dart & OOP Development** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 
 ---
 
-### 🛠 Tech Stack yang Sering Digunakan
+### 🛡️ Cyber Security & CTF Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-8b9eb0?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabilAriq&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Nabil's Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilAriq&theme=tokyonight&hide_border=false" alt="Nabil's Streak" height="180" />
+### 💻 Development Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
